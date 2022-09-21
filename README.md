@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nwanne-san
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development..for now.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
