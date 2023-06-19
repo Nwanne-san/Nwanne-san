@@ -5,6 +5,8 @@
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br> 
   <br>
+  I am currently learning Javascript and Tailwind.css
+  <br>
   📫 How to reach me 👇
 </p>
 
