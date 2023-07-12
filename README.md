@@ -23,17 +23,6 @@ Skills
 </p>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="center"><a href="http://www.github.com/Nwanne-san%22%3E<img src="https://github-readme-stats.vercel.app/api?username=Nwanne-san&show_icons=true&hide=&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=0891b2&bg_color=20232a&hide_border=true&show_icons=true" alt="deez" /></a></p>
-<p align="center">
-<a href="https://github.com/Nwanne-san/%22%3E
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwanne-san&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
-</p>
-
-
-<a href="https://github.com/Nwanne-san" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwanne-san&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="center"/></a>
 
 <hr>
 <p align="center">
