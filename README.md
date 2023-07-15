@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center"> <a href="https://www.linkedin.com/in//nwanne-nnamani-1b0a03273"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:nnamaninwanne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//2348104026825"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
+<p align="center"> <a href="https://www.linkedin.com/in/nwanne-nnamani-1b0a03273"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:nnamaninwanne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//2348104026825"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
 
 Skills
 ---------
