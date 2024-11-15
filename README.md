@@ -2,7 +2,7 @@
   Hi, I'm Nnamani Nwanne, and I am a Full Stack Web Developer from NIGERIA
   <br>
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code, Hardware and learning anything about them. Also love video games and playing soccer😊
   <br> 
   <br>
   I am currently learning TypeScript and Python
