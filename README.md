@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   Hi, I'm Nnamani Nwanne, and I am a Full Stack Web Developer from NIGERIA.
   <br>
   <br>
