@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my Github Profile! 👋,</h1>
-<h3 align="center">Hi there, I'm Nwanne, a frontend web developer with a passion for programming. My meticulous attention to detail inspires me to create user interfaces that make a meaningful impact. </h3>
+<h3 align="center">Hi there, I'm Nwanne, a frontend web developer with a passion for programming.  </h3>
 
 A Bit About Me:
 
