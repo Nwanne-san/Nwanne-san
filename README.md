@@ -2,8 +2,6 @@
 <h3 align="center">Hi there, I'm Nwanne, a frontend web developer with a passion for programming.  </h3>
 
 A Bit About Me:
-
-- 👨‍🎓 Electronic Engineering B.Eng
  
 - ✍ Frontend Web Developer
  
