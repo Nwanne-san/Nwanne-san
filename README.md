@@ -7,7 +7,7 @@ A Bit About Me:
  
 - 🔭 I’m currently working on **Edu Track**
 
-- 🌱 I’m currently learning **Python and Data**
+- 🌱 I’m currently learning **Express.js, Python and Data**
 
 - 👯 I’m looking to collaborate on **any frontend projects**
 
